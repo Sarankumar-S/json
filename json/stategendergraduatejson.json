@@ -1,0 +1,218 @@
+[
+  {
+    "State-Name": "INDIA",
+    "Total-Graduate": 70052850,
+    "Total-Female": 43310759,
+    "Total-Male": 26742091
+  },
+  {
+    "State-Name": "State - JAMMU & KASHMIR",
+    "Total-Graduate": 692484,
+    "Total-Female": 426555,
+    "Total-Male": 265929
+  },
+  {
+    "State-Name": "State - HIMACHAL PRADESH",
+    "Total-Graduate": 517101,
+    "Total-Female": 293449,
+    "Total-Male": 223652
+  },
+  {
+    "State-Name": "State - PUNJAB",
+    "Total-Graduate": 1919669,
+    "Total-Female": 960456,
+    "Total-Male": 959213
+  },
+  {
+    "State-Name": "State - CHANDIGARH",
+    "Total-Graduate": 206036,
+    "Total-Female": 111494,
+    "Total-Male": 94542
+  },
+  {
+    "State-Name": "State - UTTARAKHAND",
+    "Total-Graduate": 1002397,
+    "Total-Female": 568963,
+    "Total-Male": 433434
+  },
+  {
+    "State-Name": "State - HARYANA",
+    "Total-Graduate": 1994600,
+    "Total-Female": 1183849,
+    "Total-Male": 810751
+  },
+  {
+    "State-Name": "State - NCT OF DELHI",
+    "Total-Graduate": 2918192,
+    "Total-Female": 1636077,
+    "Total-Male": 1282115
+  },
+  {
+    "State-Name": "State - RAJASTHAN",
+    "Total-Graduate": 3526541,
+    "Total-Female": 2461922,
+    "Total-Male": 1064619
+  },
+  {
+    "State-Name": "State - UTTAR PRADESH",
+    "Total-Graduate": 10898205,
+    "Total-Female": 7086446,
+    "Total-Male": 3811759
+  },
+  {
+    "State-Name": "State - BIHAR",
+    "Total-Graduate": 3235648,
+    "Total-Female": 2471458,
+    "Total-Male": 764190
+  },
+  {
+    "State-Name": "State - SIKKIM",
+    "Total-Graduate": 42848,
+    "Total-Female": 24812,
+    "Total-Male": 18036
+  },
+  {
+    "State-Name": "State - ARUNACHAL PRADESH",
+    "Total-Graduate": 86937,
+    "Total-Female": 58823,
+    "Total-Male": 28114
+  },
+  {
+    "State-Name": "State - NAGALAND",
+    "Total-Graduate": 165044,
+    "Total-Female": 96513,
+    "Total-Male": 68531
+  },
+  {
+    "State-Name": "State - MANIPUR",
+    "Total-Graduate": 294135,
+    "Total-Female": 178447,
+    "Total-Male": 115688
+  },
+  {
+    "State-Name": "State - MIZORAM",
+    "Total-Graduate": 95396,
+    "Total-Female": 56437,
+    "Total-Male": 38959
+  },
+  {
+    "State-Name": "State - TRIPURA",
+    "Total-Graduate": 165796,
+    "Total-Female": 107556,
+    "Total-Male": 58240
+  },
+  {
+    "State-Name": "State - MEGHALAYA",
+    "Total-Graduate": 154962,
+    "Total-Female": 77020,
+    "Total-Male": 77942
+  },
+  {
+    "State-Name": "State - ASSAM",
+    "Total-Graduate": 1130319,
+    "Total-Female": 718327,
+    "Total-Male": 411992
+  },
+  {
+    "State-Name": "State - WEST BENGAL",
+    "Total-Graduate": 5355274,
+    "Total-Female": 3463977,
+    "Total-Male": 1891297
+  },
+  {
+    "State-Name": "State - JHARKHAND",
+    "Total-Graduate": 1532170,
+    "Total-Female": 1039975,
+    "Total-Male": 492195
+  },
+  {
+    "State-Name": "State - ODISHA",
+    "Total-Graduate": 1965889,
+    "Total-Female": 1303987,
+    "Total-Male": 661902
+  },
+  {
+    "State-Name": "State - CHHATTISGARH",
+    "Total-Graduate": 1216588,
+    "Total-Female": 799269,
+    "Total-Male": 417319
+  },
+  {
+    "State-Name": "State - MADHYA PRADESH",
+    "Total-Graduate": 3591389,
+    "Total-Female": 2311433,
+    "Total-Male": 1279956
+  },
+  {
+    "State-Name": "State - GUJARAT",
+    "Total-Graduate": 3471795,
+    "Total-Female": 2083498,
+    "Total-Male": 1388297
+  },
+  {
+    "State-Name": "State - DAMAN & DIU",
+    "Total-Graduate": 13349,
+    "Total-Female": 8774,
+    "Total-Male": 4575
+  },
+  {
+    "State-Name": "State - DADRA & NAGAR HAVELI",
+    "Total-Graduate": 21779,
+    "Total-Female": 13880,
+    "Total-Male": 7899
+  },
+  {
+    "State-Name": "State - MAHARASHTRA",
+    "Total-Graduate": 9505517,
+    "Total-Female": 5730823,
+    "Total-Male": 3774694
+  },
+  {
+    "State-Name": "State - ANDHRA PRADESH",
+    "Total-Graduate": 6307880,
+    "Total-Female": 4125374,
+    "Total-Male": 2182506
+  },
+  {
+    "State-Name": "State - KARNATAKA",
+    "Total-Graduate": 4496451,
+    "Total-Female": 2799580,
+    "Total-Male": 1696871
+  },
+  {
+    "State-Name": "State - GOA",
+    "Total-Graduate": 152131,
+    "Total-Female": 77010,
+    "Total-Male": 75121
+  },
+  {
+    "State-Name": "State - LAKSHADWEEP",
+    "Total-Graduate": 4288,
+    "Total-Female": 2682,
+    "Total-Male": 1606
+  },
+  {
+    "State-Name": "State - KERALA",
+    "Total-Graduate": 2662074,
+    "Total-Female": 1187364,
+    "Total-Male": 1474710
+  },
+  {
+    "State-Name": "State - TAMIL NADU",
+    "Total-Graduate": 6073079,
+    "Total-Female": 3495384,
+    "Total-Male": 2577695
+  },
+  {
+    "State-Name": "State - PUDUCHERRY",
+    "Total-Graduate": 154784,
+    "Total-Female": 87072,
+    "Total-Male": 67712
+  },
+  {
+    "State-Name": "State - ANDAMAN & NICOBAR ISLANDS",
+    "Total-Graduate": 24580,
+    "Total-Female": 13832,
+    "Total-Male": 10748
+  }
+]
